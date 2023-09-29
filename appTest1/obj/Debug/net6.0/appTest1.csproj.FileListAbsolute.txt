@@ -1,0 +1,14 @@
+C:\Users\Luca\source\repos\appTest1\appTest1\bin\Debug\net6.0\appTest1.exe
+C:\Users\Luca\source\repos\appTest1\appTest1\bin\Debug\net6.0\appTest1.deps.json
+C:\Users\Luca\source\repos\appTest1\appTest1\bin\Debug\net6.0\appTest1.runtimeconfig.json
+C:\Users\Luca\source\repos\appTest1\appTest1\bin\Debug\net6.0\appTest1.dll
+C:\Users\Luca\source\repos\appTest1\appTest1\bin\Debug\net6.0\appTest1.pdb
+C:\Users\Luca\source\repos\appTest1\appTest1\obj\Debug\net6.0\appTest1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca\source\repos\appTest1\appTest1\obj\Debug\net6.0\appTest1.AssemblyInfoInputs.cache
+C:\Users\Luca\source\repos\appTest1\appTest1\obj\Debug\net6.0\appTest1.AssemblyInfo.cs
+C:\Users\Luca\source\repos\appTest1\appTest1\obj\Debug\net6.0\appTest1.csproj.CoreCompileInputs.cache
+C:\Users\Luca\source\repos\appTest1\appTest1\obj\Debug\net6.0\appTest1.dll
+C:\Users\Luca\source\repos\appTest1\appTest1\obj\Debug\net6.0\refint\appTest1.dll
+C:\Users\Luca\source\repos\appTest1\appTest1\obj\Debug\net6.0\appTest1.pdb
+C:\Users\Luca\source\repos\appTest1\appTest1\obj\Debug\net6.0\appTest1.genruntimeconfig.cache
+C:\Users\Luca\source\repos\appTest1\appTest1\obj\Debug\net6.0\ref\appTest1.dll
